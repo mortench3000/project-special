@@ -1,0 +1,7 @@
+**/.terraform
+**/.zip
+**/.DS_Store
+.vscode/settings.json
+.idea
+**/__pycache__/*
+.terraform.lock.hcl
